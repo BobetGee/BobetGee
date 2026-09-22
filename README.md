@@ -1,10 +1,10 @@
-# Hi, I'm Bobet 👋
+# Bobet Gee 👋
 
-### Data & AI Leader | Analytics Engineer | AI Builder
+### Data × Analytics × AI
 
-I build **data and AI systems that turn business data into decisions** — combining enterprise analytics, semantic models, AI agents, and modern data platforms.
+Building intelligent systems that turn **enterprise data into decisions**.
 
-My focus is moving analytics beyond dashboards toward **AI-powered decision intelligence**: systems that can understand business context, interact with enterprise data, use tools, and produce grounded, traceable insights.
+I work at the intersection of **Data & Analytics leadership and hands-on AI engineering** — building semantic models, AI agents, MCP tools, knowledge systems, and decision-intelligence platforms.
 
 ---
 
