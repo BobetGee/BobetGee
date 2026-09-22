@@ -4,7 +4,7 @@
 
 Building intelligent systems that turn **enterprise data into decisions**.
 
-I work at the intersection of **Data & Analytics leadership and hands-on AI engineering** — building semantic models, AI agents, MCP tools, knowledge systems, and decision-intelligence platforms.
+I work at the intersection of Data & Analytics leadership and hands-on AI engineering — building semantic models, AI agents, MCP tools, knowledge systems, and decision-intelligence platforms.
 
 ---
 
