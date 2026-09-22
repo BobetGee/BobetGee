@@ -1,77 +1,57 @@
-# Bobet Gee 👋
+<img src="https://raw.githubusercontent.com/BobetGee/BobetGee/main/assets/bobet-systems.svg" width="100%" alt="Bobet Garlit — Business instinct. Engineering depth. Data, Analytics and AI." />
 
-### Data × Analytics × AI
+# Hi, I'm Bobet Garlit.
 
-Building intelligent systems that turn **enterprise data into decisions**.
+**I help teams turn scattered data, manual handoffs, and AI ideas into working systems.**
 
-I work at the intersection of Data & Analytics leadership and hands-on AI engineering — building semantic models, AI agents, MCP tools, knowledge systems, and decision-intelligence platforms.
+I'm a Data & Analytics leader and hands-on builder. My perspective comes from three decades across sales, distribution, operations, and analytics: understand the business, make the evidence useful, and build something people can actually work with.
 
----
+[Explore Ortigas Workflow Lab](https://github.com/Ortigas-WorkFlow-Lab) · [Let's talk on LinkedIn](https://www.linkedin.com/in/bobetgarlit/)
 
-## 🚀 What I'm Building
+## What that looks like in practice
 
-🤖 **AI Agents & Agentic Workflows**  
-Building AI systems that can reason, use tools, coordinate work, and execute multi-step analytical and engineering workflows.
+| When the problem is… | My work includes… |
+| :--- | :--- |
+| **“We have dashboards. What should we do next?”** | Decision-intelligence prototypes that bring reports, business knowledge, and structured analysis together in a decision workbench. |
+| **“The process lives in spreadsheets and follow-ups.”** | Workflow applications with approval states, evidence capture, budget controls, and role-based views. |
+| **“Can we trust this number?”** | Tools to inspect Power BI models, trace data sources, explore warehouse schemas, and explain business definitions. |
+| **“Running the operation takes too many disconnected tools.”** | A property-operations platform spanning bookings, guest communication, payments, finance, and analytics. |
 
-🔌 **Model Context Protocol (MCP)**  
-Exploring and building MCP servers and tools that connect AI agents with data platforms, analytics systems, and development workflows.
+Selected work I've built or led, including prototypes under review. Client and employer implementations remain private.
 
-📊 **Enterprise Analytics & Power BI**  
-Designing semantic models, analytics platforms, dashboards, and self-service BI experiences that turn enterprise data into actionable insights.
+## The experience behind the code
 
-🧠 **RAG & Knowledge Systems**  
-Connecting LLMs with governed business knowledge, documentation, metadata, and enterprise data.
+- **Business context:** leadership across commercial operations and Data & Analytics.
+- **Analytics at scale:** leadership of a centralized analytics hub with **330+ live dashboards**.
+- **Hands-on delivery:** from semantic models and Python services to full-stack applications and AI-assisted workflows.
+- **A disciplined foundation:** BS Applied Mathematics, University of the Philippines · Certified Lean Six Sigma Green Belt (AIGPE).
 
-⚡ **AI-Assisted Engineering**  
-Experimenting with multi-agent development workflows using AI coding agents to plan, build, review, and coordinate software development.
+## How I work
 
----
+**Frame → Ground → Build → Embed**
 
-## 🛠️ Technology & Tools
+Define the decision or workflow. Establish the data and constraints. Build and test a focused solution. Make ownership, adoption, and follow-through part of the delivery.
 
-**Analytics & BI**
+I use AI coding agents throughout development, with explicit task ownership, review, and verification. Architecture decisions and accountability stay human.
 
-`Power BI` • `DAX` • `Power Query` • `Semantic Models`
+<details>
+<summary><strong>Engineering toolbox</strong></summary>
 
-**Data**
+| Area | Tools I work with |
+| :--- | :--- |
+| Analytics | Power BI · Microsoft Fabric · DAX · Power Query · semantic models · PBIP/TMDL |
+| Data & services | Python · SQL · FastAPI · Flask · PostgreSQL · Amazon Redshift |
+| Applications | TypeScript · Next.js · React · Prisma |
+| AI & knowledge | LLM APIs · retrieval and grounding · MCP integrations · AI coding agents |
 
-`SQL` • `Python` • `AWS` • `Azure` • `Data Engineering`
+My forks and course projects reflect ongoing learning; they are distinct from the original systems described above.
 
-**AI**
-
-`LLMs` • `AI Agents` • `MCP` • `RAG` • `Knowledge Systems`
-
-**Engineering**
-
-`GitHub` • `VS Code` • `Git` • `AI-Assisted Development`
-
----
-
-## 🔭 Current Interests
-
-- Agentic analytics
-- Multi-agent software development
-- MCP-powered AI tools
-- Enterprise knowledge systems
-- Semantic models + LLMs
-- AI-powered decision intelligence
-- Data democratization
-- Analytics engineering
+</details>
 
 ---
 
-## 💡 How I Think About Data & AI
+**Working through a data, AI, or workflow problem?**
 
-> **Data → Context → Intelligence → Action**
+Bring one decision your team struggles to make—or one process it struggles to finish.
 
-Dashboards tell us **what happened**.
-
-Analytics helps explain **why it happened**.
-
-AI should help us determine **what to do next**.
-
-That's the space I'm exploring and building in.
-
----
-
-### 🧪 Building. Experimenting. Learning.
+**[Start a conversation →](https://www.linkedin.com/in/bobetgarlit/)**
